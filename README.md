@@ -34,7 +34,8 @@ Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin and Ethereu
 #
 **Register on The ICO/STOs Token Sale Dashboard**
 
-Sing Up here: https://www.nordicenergy.io or direct on the dashboard: https://www.nordicenergy.app
+[ Sing Up here]: [https://www.nordicenergy.io) [or direct on the dashboard:] (https://www.nordicenergy.app).
+
 
 
 #
@@ -111,7 +112,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 - We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 
-- Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.nordicenergy.app
+- Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at user dashboard or main page.
 
 
 #
@@ -131,7 +132,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 Interested parties have the opportunity to purchase Nordic Energy multiple tokens and coins.
 
-1. Register on the ICO/STOs token sale dashboard: https://www.nordicenergy.io Here is the direct registration link: https://www.nordicenergy.app
+1. [Register on the ICO/STOs token sale dashboard:] (https://www.nordicenergy.io) [Here is the direct registration link:] (https://www.nordicenergy.app)
 
 2. Login your accout, read our token sale & terms.
 
