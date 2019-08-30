@@ -1,5 +1,5 @@
 #
-#**ICO/STOs Token Sale and Management Dashboard**#
+##ICO/STOs Token Sale and Management Dashboard
 
 
 **Version 1.0**
