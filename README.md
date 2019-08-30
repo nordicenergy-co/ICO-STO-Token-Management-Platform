@@ -25,39 +25,15 @@ We do not store any tokens, crypto assets or private keys on your behalf. All tr
 #
 
 
-**Functionalities & How it Works?**
 
+****
+#
 
 
 **Payment Method**
 
 Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin and Ethereum + 15 currencies for your tokens directly on addresses and account on your control.
-#
 
-
-
-**How to participate in a Initial Coin Offering?**
-
-Interested parties have the opportunity to purchase Nordic Energy multiple tokens and coins.
-
-1. Register on the ICO/STOs token sale dashboard: https://www.nordicenergy.io Here is the direct registration link: https://www.nordicenergy.app
-
-2. Login your accout, read our token sale & terms.
-
-3. On this page, you will see all of your account. One of them will be a wallet with NET tokens.
-Platform.
-
-
-
-**Read More**
-
-About Us, projects descriptions, business presentation and whitepaper.
-
-- WebsiteLink https://www.nordicenergy.io 
-
-
-
-**How it Works?**
 
 
 **Register on The ICO/STOs Token Sale Dashboard**
@@ -69,6 +45,12 @@ Sing Up here: https://www.nordicenergy.io or direct on the dashboard: https://ww
 **User Dashboard**
 
 After register/login, you will see the user dashboard. Here you can see the you contributed balance and your purchased token balance.
+
+
+
+**Terms to Use**
+
+About Us, projects descriptions, business presentation and whitepaper.
 
 
 
@@ -84,21 +66,19 @@ After click the profile section you will get this page and can update your perso
 
 
 
-**KYC Application**
+**KYC/AML Application**
 
-Yes
-
-
-**Buy Tokens**
-
-It’s support major and most popular cryptocurrencies: BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT. Fiat currencies: Bank Transfer, Visa/MasterCard, PayPal payments to make investment.
+Yes/Yes
 
 
+**Payment Methods**
 
-**Payment Process & Gateways**
+**It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT.****Fiat** Bank Transfer, Visa/MasterCard payments to make investment.
 
-Pay via Bank Transfer, PayPal. Coinbase, CoinPayment support coming soon.
 
+**Cryptocurrency Payment Gataways**
+
+- PayPal, Coinbase, CoinPayments support
 
 
 **Transactions**
@@ -114,6 +94,7 @@ Dashboard has built-in referral bonus management system so investor/contributor 
 
 
 **Security & Privacy Policy**
+
 
 Two-Factor Verification (2FA):
 
@@ -143,4 +124,17 @@ While using our Service, we may ask you to provide us with certain personally id
 **Name**
 
 **Email address**
-#
+
+
+
+**How to participate in a Initial Coin Offering?**
+
+Interested parties have the opportunity to purchase Nordic Energy multiple tokens and coins.
+
+1. Register on the ICO/STOs token sale dashboard: https://www.nordicenergy.io Here is the direct registration link: https://www.nordicenergy.app
+
+2. Login your accout, read our token sale & terms.
+
+3. On this page, you will see all of your account. One of them will be a wallet with NET tokens.
+Platform.
+
