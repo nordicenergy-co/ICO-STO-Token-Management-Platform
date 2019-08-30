@@ -1,0 +1,29 @@
+ICO-STO-Token-Management-Dashboard
+
+
++ Add new 2 more fiat currency (Indian Rupee [INR], Nigerian Naira [NGN]) and 2 more crypto-currency (USD Coin [USDC], Dash [DASH]) added into system.
++ 3 More Stages Added into application that helps you sale more.
++ Stage Overview option added in Stage so Admin can see 'at a glance view'.
++ My Token Page added for Users so user can see their balance overview.
++ Stage Based overview option added into My Token page for Users.
++ View Referrals by User from Users List in Admin panel.
++ Refund Option added for Approved transaction in Admin panel.
++ Userpanel Setting added into ICO/STO Setting page in Admin panel.
++ 'Contribution In' currency can be choose from Userpanel Setting.
++ Refund email copy for user added into Email Templates.
++ Logo added for all Email Template (see documentation).
+!+ Total sold and unsold token amount wrong calculation (critical).
+!+ Loading issues fixed on Buy Token page when multiple fiat currency enabled.
+!+ Referral bonus adjustment issues when limited with number.
+!+ Referral earning amount calculation issues.
+!! Sold & Unsold amount now calculated based on approved transaction.
+!! Separated the 'Referral Setting' page to easily manage.
+!! The 'Management' menu name change to Settings.
+!! Referral bonus can be limit with total referral bonus now.
+!! Crypto Font updated for loading issues.
+!! Core stylesheet updated to fix some responsive layout.
+!!  Vendor packages of Laravel updated.
+
+Caution: This version required database migration for refund option & upcoming new language system. Please update add-ons with latest version, eg. if you are using CoinPayments payment addon.
+
+Important Note: IF YOU ARE USING V.1.0 OR LOWER VERSION, Please update your main application IMMEDIATELY as a critical calculational issues fixed in v1.0.0.
