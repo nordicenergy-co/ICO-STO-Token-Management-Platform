@@ -1,14 +1,13 @@
+
+
+**ICO/STOs Token Sale and Management Dashboard**
+
+Version 1.0
 #
-#ICO/STOs Token Sale and Management Dashboard
-
-
-**Version 1.0**
-
-
 
 
 **Introduction**
-#
+
 
 **Platform is full functional dashboard for manage your recaived tokens.**
 
