@@ -5,6 +5,7 @@
 
 
 
+
 **Introduction**
 #
 
@@ -12,9 +13,13 @@
 
 We provide stand alone software solution for Nordic Energy Token Sale (ICO/STO) without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. Nordic Energy token sale dashboard and statistics panel to track Nordic Energy ICO/STO’s progress. Ready-to -use smart contract, issuance and distribution of multiple tokens and coins.
 
+
+
 **Nordic Energy´s platform is full functional dashboard for manage your recaived tokens**
 
 Our dashboard helps contributor and investor´s to purchase Nordic Energy tokens very easily, and can manage and receive them securely.
+
+
 
 **ICO/STOs token sale and management dashboard is not a custodian of your assets.** 
 
@@ -31,6 +36,8 @@ We do not store any tokens, crypto assets or private keys on your behalf. All tr
 Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin and Ethereum + 15 currencies for your tokens directly on addresses and account on your control.
 #
 
+
+
 **How to participate in a Initial Coin Offering?**
 
 Interested parties have the opportunity to purchase Nordic Energy multiple tokens and coins.
@@ -43,11 +50,13 @@ Interested parties have the opportunity to purchase Nordic Energy multiple token
 Platform.
 
 
+
 **Read More**
 
 About Us, projects descriptions, business presentation and whitepaper.
 
 - WebsiteLink https://www.nordicenergy.io 
+
 
 
 **How it Works?**
@@ -58,9 +67,11 @@ About Us, projects descriptions, business presentation and whitepaper.
 Sing Up here: https://www.nordicenergy.io or direct on the dashboard: https://www.nordicenergy.app
 
 
+
 **User Dashboard**
 
 After register/login, you will see the user dashboard. Here you can see the you contributed balance and your purchased token balance.
+
 
 
 **Profile Page**
@@ -68,18 +79,22 @@ After register/login, you will see the user dashboard. Here you can see the you 
 You can change your profile details from the profile section.
 
 
+
 **Update personal data:**
 
 After click the profile section you will get this page and can update your personal data. You can not change your given email.
+
 
 
 **KYC Application**
 
 Yes
 
+
 **Buy Tokens**
 
 It’s support major and most popular cryptocurrencies: BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT. Fiat currencies: Bank Transfer, Visa/MasterCard, PayPal payments to make investment.
+
 
 
 **Payment Process & Gateways**
@@ -87,14 +102,17 @@ It’s support major and most popular cryptocurrencies: BTC, ETH, LTC, EOS, BCH,
 Pay via Bank Transfer, PayPal. Coinbase, CoinPayment support coming soon.
 
 
+
 **Transactions**
 
 In Transaction section you can see all the transaction you have made. In latest version included export option that allow to download all the transaction/user list in CSV with different edition (Entire, Compact, Minimal). Export also allows on after search/filter which is helps you get perfect export data for reuse.
 
 
+
 **Referral & Bonus System**
 
 Dashboard has built-in referral bonus management system so investor/contributor can invite more people to bring into our platform. You can specify the bonus amount for both user as who invite and who join and bonus will automatically adjust once transaction approved.
+
 
 
 **Security & Privacy Policy**
@@ -104,6 +122,7 @@ Two-Factor Verification (2FA):
 Two-factor authentication is a method for protection your web account. When it is activated you need to enter not only your password, but also a special code. You can receive this code by in mobile app or email. Even if third person will find your password, then can’t access with that code.
 
 Nordic Energy included 2 Layer security option as Two-Factor Authentication (2FA) for every users so they can protect their account more strongly. Also system allow to change password through email confirmation which give more security for users.
+
 
 
 **Privacy Policy:**
@@ -117,9 +136,11 @@ This page informs you of our policies regarding the collection, use and disclosu
 - Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.nordicenergy.app
 
 
+
 **Information Collection And Use:**
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
+
 
 **Name**
 
