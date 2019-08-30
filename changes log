@@ -1,5 +1,9 @@
-ICO-STO-Token-Management-Dashboard
 
+
+#ICO/STO Token Sale Managemen Dashboard Updates
+#
+
+**V.1.0.1**
 
 + Add new 2 more fiat currency (Indian Rupee [INR], Nigerian Naira [NGN]) and 2 more crypto-currency (USD Coin [USDC], Dash [DASH]) added into system.
 + 3 More Stages Added into application that helps you sale more.
@@ -24,6 +28,23 @@ ICO-STO-Token-Management-Dashboard
 !! Core stylesheet updated to fix some responsive layout.
 !!  Vendor packages of Laravel updated.
 
-Caution: This version required database migration for refund option & upcoming new language system. Please update add-ons with latest version, eg. if you are using CoinPayments payment addon.
 
-Important Note: IF YOU ARE USING V.1.0 OR LOWER VERSION, Please update your main application IMMEDIATELY as a critical calculational issues fixed in v1.0.0.
+**Caution:** This version required database migration for refund option & upcoming new language system. Please update add-ons with latest version, eg. if you are using CoinPayments payment addon.
+
+**Important Note:** IF YOU ARE USING V.1.0 OR LOWER VERSION, Please update your main application IMMEDIATELY as a critical calculational issues fixed in v1.0.0.
+
+#
+
+**V.1.0.0**
+
++ Add new 4 more fiat currency (Canadian Dollar [CAD], Australian Dollar [AUD], Russian Ruble [RUB], Turkish Lira [TRY]) added into system.
++ Option added in Referral bonus to define individual setting for who join and who invited.
++ In admin panel option added to control 'receiving wallet address' red info box.
++ Hide option added so you can simply hide receiving wallet address add area.
++ New color preset (Watermelon Green) added for user panel.
+!+ Wallet address disable issues fixed in KYC application from.
+!+ Raised/Total wrong amount show in progress bar if choose other currency.
+!+ Admin chart color issues if other theme choose except default theme.
+!! Vendor packages of Laravel and core stylesheet updated.
+
+#
