@@ -30,7 +30,7 @@ Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin and Ethereu
 
 #### Register on The ICO/STOs Token Sale Dashboard
 
-[ Sing Up here]: [https://www.nordicenergy.io) [or direct on the dashboard:] (https://www.nordicenergy.app).
+##### Sing Up here: [https://www.nordicenergy.io) or direct on the dashboard: (https://www.nordicenergy.app).
 
 
 
