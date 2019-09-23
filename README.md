@@ -22,7 +22,7 @@ We do not store any tokens, crypto assets or private keys on your behalf. All tr
 
 
 
-#### Payment Method
+#### Payment Methods
 
 Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin and Ethereum + 15 currencies for your tokens directly on addresses and account on your control.
 
@@ -82,9 +82,10 @@ In Transaction section you can see all the transaction you have made. In latest 
 Dashboard has built-in referral bonus management system so investor/contributor can invite more people to bring into our platform. You can specify the bonus amount for both user as who invite and who join and bonus will automatically adjust once transaction approved.
 
 
+
 #### Security & Privacy Policy
 
-Two-Factor Verification (2FA):
+##### Two-Factor Verification (2FA):
 
 Two-factor authentication is a method for protection your web account. When it is activated you need to enter not only your password, but also a special code. You can receive this code by in mobile app or email. Even if third person will find your password, then can’t access with that code.
 
@@ -105,7 +106,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 
 
-#### Information Collection And Usu
+#### Information Collection And Use
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
 
@@ -116,16 +117,16 @@ While using our Service, we may ask you to provide us with certain personally id
 
 
 
-### How to participate in a Initial Coin Offering?
+### How to participate in a Initial Coin Offering (ICO)?
 
-##### Interested parties have the opportunity to purchase Nordic Energy multiple tokens and coins.
+##### Interested parties have the opportunity to purchase Nordic Energy (NET) tokens and native cryptocurrency NEC.
 
 
-1. [Register on the ICO/STOs token sale dashboard:] (https://www.nordicenergy.io) [Here is the direct registration link:] (https://www.nordicenergy.app)
-
-2. Login your accout, read our token sale & terms.
-
-3. On this page, you will see all of your account. One of them will be a wallet with NET tokens.
-Platform.
+1.	Go on the official website — https://www.nordicenergy.io
+2.	Register on the ICO/STO Dashboard Account: https://www.nordicenergy.app
+3.	Complete Identity Verification (KYC)
+4.	Enter your personal EOS (EOSIO), or ETH (Ethereum) wallet address
+5.	Obtain the address for investing in NET
+6.	Please use the same address as entered on the Nordic Energy website https://www.nordicenergy.io to support the Nordic Energy project by purchasing token and participate in the initial coin offering. 
 
 
