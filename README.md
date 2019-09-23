@@ -115,9 +115,10 @@ While using our Service, we may ask you to provide us with certain personally id
 
 #### Email address
 
+#
 
 
-### How to participate in a Initial Coin Offering (ICO)?
+#### How to participate in a Initial Coin Offering (ICO)?
 
 ##### Interested parties have the opportunity to purchase Nordic Energy (NET) tokens and native cryptocurrency NEC.
 
