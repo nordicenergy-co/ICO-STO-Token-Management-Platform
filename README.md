@@ -62,7 +62,7 @@ Yes/Yes
 
 #### Payment Methods
 
-It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT.****Fiat** Bank Transfer, Visa/MasterCard payments to make investment.
+It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT. Fiat: Bank Transfer, Visa/MasterCard payments to make investment.
 
 
 
