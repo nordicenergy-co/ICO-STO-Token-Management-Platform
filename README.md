@@ -1,10 +1,12 @@
 
-# ICO/STO Token Sale Platform**
+# ICO/STO Token Sale Platform
+
 
 
 ### Platform is full functional dashboard for manage your purchased tokens
 
 We provide stand alone software solution for Nordic Energy Token Sale (ICO/STO) without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. Nordic Energy token sale dashboard and statistics panel to track Nordic Energy ICO/STO’s progress. Ready-to -use smart contract, issuance and distribution of multiple tokens and coins.
+
 
 
 
