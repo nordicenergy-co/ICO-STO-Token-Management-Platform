@@ -1,5 +1,5 @@
 
-# ICO/STO Token Sale Platform
+# ICO/STO Platform
 
 
 
