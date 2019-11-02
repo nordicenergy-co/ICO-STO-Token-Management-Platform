@@ -1,22 +1,16 @@
 
-# ICO/STO Platform
+
+# Nordic Energy ICO & STO Launch Platform´s
+
+is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
+
+1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO & STO’s progress. 
+
+2  Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
 
 
 
-### Platform is full functional dashboard for manage your purchased tokens
-
-We provide stand alone software solution for Nordic Energy Token Sale (ICO/STO) without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. Nordic Energy token sale dashboard and statistics panel to track Nordic Energy ICO/STO’s progress. Ready-to -use smart contract, issuance and distribution of multiple tokens and coins.
-#
-
-
-
-#### Nordic Energy´s platform is full functional dashboard for manage your recaived tokens
-
-Our dashboard helps contributor and investor´s to purchase Nordic Energy tokens very easily, and can manage and receive them securely.
-
-
-
-#### ICO/STOs token sale and management dashboard is not a custodian of your assets.
+#### We are not a custodian of your funds or assets!
 
 We do not store any tokens, crypto assets or private keys on your behalf. All transactions are made by users on blockchain and are not controlled by us or third parties. It is totally safe standalone “your property solution”.
 
@@ -24,13 +18,13 @@ We do not store any tokens, crypto assets or private keys on your behalf. All tr
 
 #### Payment Methods
 
-Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin and Ethereum + 15 currencies for your tokens directly on addresses and account on your control.
+Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Ethereum, +20 cryptocurrencies to pay tokens directly on addresses and account on your control.
 
 
 
-#### Register on The ICO/STOs Token Sale Dashboard
+#### Register on The ICO & STO token sale launch platform
 
-##### Sing Up here: [https://www.nordicenergy.io) or direct on the dashboard: (https://www.nordicenergy.app).
+##### [https://www.nordicenergy.io) or direct on the dashboard: (https://www.nordicenergy.app).
 
 
 
@@ -62,13 +56,13 @@ Yes/Yes
 
 #### Payment Methods
 
-It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT. Fiat: Bank Transfer, Visa/MasterCard payments to make investment.
+It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT (Tether). Fiat: Bank Transfer, Visa/MasterCard payments to make investment.
 
 
 
 #### Cryptocurrency Payment Gataways
 
-- PayPal, Coinbase, CoinPayments support
+- PayPal, Coinbase, and CoinPayments
 
 
 #### Transactions
@@ -87,47 +81,53 @@ Dashboard has built-in referral bonus management system so investor/contributor 
 
 ##### Two-Factor Verification (2FA):
 
-Two-factor authentication is a method for protection your web account. When it is activated you need to enter not only your password, but also a special code. You can receive this code by in mobile app or email. Even if third person will find your password, then can’t access with that code.
+1. Two-factor authentication is a method for protection your web account. When it is activated you need to enter not only your password, but also a special code. 
 
-Nordic Energy included 2 Layer security option as Two-Factor Authentication (2FA) for every users so they can protect their account more strongly. Also system allow to change password through email confirmation which give more security for users.
+2. You can receive this code by in mobile app or email. Even if third person will find your password, then can’t access with that code.
 
-
-
-
-#### Privacy Policy
-
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
-
-- We will not use or share your information with anyone except as described in this Privacy Policy.
-
-- We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
-
-- Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at user dashboard or main page.
+3. ICO & STO Platform included 2-Layer security option as Two-Factor Authentication (2FA) for every users so they can protect their account more strongly. Also system allow to change password through email confirmation which give more security for users.
 
 
+##### Information Collection And Use:
 
-#### Information Collection And Use
+###### This page informs you of our policies regarding the collection, use and disclosure of personal information when you use our services and platform.
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
+1. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+2. We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
+
+3. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at user dashboard.
+
+4. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. 
+
+5. Personally identifiable information (“Personal Information”) may include, but is not limited to:
 
 
 #### Name
 
 #### Email address
 
+
 #
 
 
-#### How to participate in a Initial Coin Offering (ICO)?
+### How to participate in a Initial Coin Offering (ICO)?
 
-##### Interested parties have the opportunity to purchase Nordic Energy (NET) tokens and native cryptocurrency NEC.
-
-
-1.	Go on the official website — https://www.nordicenergy.io
-2.	Register on the ICO/STO Dashboard Account: https://www.nordicenergy.app
-3.	Complete Identity Verification (KYC)
-4.	Enter your personal EOS (EOSIO), or ETH (Ethereum) wallet address
-5.	Obtain the address for investing in NET
-6.	Please use the same address as entered on the Nordic Energy website https://www.nordicenergy.io to support the Nordic Energy project by purchasing token and participate in the initial coin offering. 
+#### Interested parties have the opportunity to purchase Nordic Energy (NET) tokens.
 
 
+1.	Go on the official website — https://www.nordicenergy.io or register on the ICO & STO platform (dashboard) account: https://www.nordicenergy.app
+3.	Complete Your Identity Verification (KYC)
+4.	Enter your personal EOS (EOSIO) or ETH (Ethereum) wallet address
+5.	Obtain the address for investing in Nordic Energy token (NET)
+6.	Please use the same address as entered on the Nordic Energy website https://www.nordicenergy.io to support the Nordic    Energy project by purchasing token and participate in the initial coin offering. 
+
+
+
+#### Fuure Developments and upgrades to..
+
+- multi-token support of other Co-projects
+- support native cryptocurrency (NEC)
+- support Security Token (NEST)
+- AirDrop token
+- support multiple tokens and asset issuances in three different blockchains - Ethereum, Stellar, and EOSIO.
