@@ -6,7 +6,7 @@ is a fully compliant security and utility token issuance platform with a post-to
 
 1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO & STO’s progress. 
 
-2  Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
+2. Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
 
 
 
