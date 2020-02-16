@@ -1,6 +1,6 @@
 
 
-# Nordic Energy - ICO & STO Launch Platform´s
+# Nordic Energy - ICO & STO Launch Platform
 
 is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
 
@@ -22,7 +22,7 @@ Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Eth
 
 
 
-#### Register on The ICO & STO token sale launch platform
+#### Register on The ICO/STOs token sale management dashboard and user front-end.
 
 ##### [https://www.nordicenergy.io) or direct on the dashboard: (https://www.nordicenergy.app).
 
