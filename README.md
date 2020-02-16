@@ -4,7 +4,7 @@
 
 is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
 
-1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO & STO’s progress. 
+1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO/STO’s progress. 
 
 2. Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
 
@@ -18,7 +18,7 @@ We do not store any tokens, crypto assets or private keys on your behalf. All tr
 
 #### Payment Methods
 
-Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Ethereum, +20 cryptocurrencies to pay tokens directly on addresses and account on your control.
+Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Ethereum, +25 cryptocurrencies to pay tokens directly on addresses and account on your control.
 
 
 
